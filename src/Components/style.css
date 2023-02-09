@@ -66,6 +66,9 @@ body{
 .base-start{
     margin-top: 2rem;
 }
+.btn-group{
+    display: flex;
+}
 .btn-group button{
     outline: none;
     border: none;
